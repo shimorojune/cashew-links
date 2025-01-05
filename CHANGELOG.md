@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/shimorojune/cashew-links/compare/v1.1.0...v1.2.0) (2025-01-05)
+
+
+### Features
+
+* Update README to reflect project purpose and remove outdated information ([1b8322d](https://github.com/shimorojune/cashew-links/commit/1b8322d107124e66b8ab52d40431f67129e4dcb1))
+
 # [1.1.0](https://github.com/shimorojune/cashew-links/compare/v1.0.0...v1.1.0) (2025-01-05)
 
 
