@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/shimorojune/cashew-links/compare/v1.0.0...v1.1.0) (2025-01-05)
+
+
+### Features
+
+* Change Netlify deploy trigger method to POST and add empty data payload ([db227a3](https://github.com/shimorojune/cashew-links/commit/db227a38480234663359fca469a03a39061a856c))
+
 # 1.0.0 (2025-01-05)
 
 
